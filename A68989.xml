@@ -1,0 +1,714 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lord have mercy upon vs the vvorld, a sea, a pest-house, the one full of stormes, and dangers, the other full of soares and diseases : the observance from these, (though especially accomodated to the times of this heavy contagion,) fitted for all times : for all men, and all times are sicke, of the cause of this sicknesse : Lord haue mercy vpon vs.</title>
+            <author>T. B. (Thomas Brewer)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68989</idno>
+            <idno type="STC">STC 3719.5</idno>
+            <idno type="STC">ESTC S242</idno>
+            <idno type="EEBO-CITATION">22148710</idno>
+            <idno type="OCLC">ocm 22148710</idno>
+            <idno type="VID">21827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1747:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lord have mercy upon vs the vvorld, a sea, a pest-house, the one full of stormes, and dangers, the other full of soares and diseases : the observance from these, (though especially accomodated to the times of this heavy contagion,) fitted for all times : for all men, and all times are sicke, of the cause of this sicknesse : Lord haue mercy vpon vs.</title>
+                  <author>T. B. (Thomas Brewer)</author>
+               </titleStmt>
+               <extent>[4], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>For Henry Gosson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Tho. Breuu.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Errors in paging: p. 2-3 misnumbered 3-4.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21827:1"/>
+            <pb facs="tcp:21827:1"/>
+            <p>Lord have Mercy upon Vs. The VVorld, A Sea, A Peſt-houſe. The one full of Stormes, and dangers, the other full of Soares and Diſeaſes.</p>
+            <p>The obſervance from Theſe, (though eſpecially accomo<g ref="char:EOLhyphen"/>dated to the times of this heavy Contagion,) fitted for all times.</p>
+            <p>For all Men, and all Times are ſicke, of the Cauſe of this <hi>Sickneſe.</hi>
+            </p>
+            <p>LORD haue mercy vpon vs.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>Henry Goſſon.</hi> 1636.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:21827:2"/>
+            <pb facs="tcp:21827:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">P</seg>
+               <g ref="char:V">Ʋ</g>niſhment is the Companion of Sinne: and although (like a man and his mate) they doe not goe cheeke by joule, like a man and his ſhadow they doe: for like that ſhadow, it is ſtill the aſſociate of Sinne, and dogges his moſt private retyrements though as ſeldome thought on as wee thinke of our worthleſſe ſhadow.</p>
+            <p>That it is thus, we ſee; though not, till we ſee it, to re<g ref="char:EOLhyphen"/>pent it: ſo bedazeled we are with the beauty, luſtre and ſplendor that is ſpread by the World over ſinne, and high<g ref="char:EOLhyphen"/>handed offences. While on the other ſide, it dimmes, and obfuſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tes that, that were it viſible, <hi>(Vertue)</hi> in his ſelfe hath beauty enough to attract, (as the Adamant the Iron) all hearts to admire, and deſire it. That we may ſee <hi>this,</hi> and <hi>that,</hi> that is, <hi>Vertue,</hi> and <hi>Vice</hi> as we ſhould doe, let us in this Picture of the <hi>World,</hi> preſented as a <hi>Sea,</hi> and a <hi>Peſt-houſe,</hi> endeavour ſo to ſee, as to know them; and knowing them, from thence learne to love, and loath, as we ſhould doe.</p>
+            <p>This Leſſon made perfect among us, we ſhall not ſo miſ<g ref="char:EOLhyphen"/>place our affections: ſo follow the World, (the corrupt e<g ref="char:EOLhyphen"/>ſtate and condition, that followed the fall of our firſt Pa<g ref="char:EOLhyphen"/>rents, <hi>Adam,</hi> and <hi>Eve:)</hi> Nor do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te on he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> painted viſor: for ſhee drinke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her moſt bitter potion to them, that make her their porti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n. Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leſt I too long keepe the ſight of her vanities from you, deſiring GOD to purge our Soules from her pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gues, and our Bodies from the ſtroak of this An<g ref="char:EOLhyphen"/>gel, I conclude.</p>
+            <closer>
+               <signed>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Brevv.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:21827:3"/>
+            <head>LORD have Mercy upon us, The World <hi>A Sea, A Peſt-houſe.</hi>
+            </head>
+            <list>
+               <head>Compared to the Sea, in theſe many Reaſons, Reſpects, and Re<g ref="char:EOLhyphen"/>ſemblances following.</head>
+               <item>1. By reaſon of the Motion, and Inſta<g ref="char:EOLhyphen"/>bility of it.</item>
+               <item>2. By reaſon of Ejection, or Caſting out.</item>
+               <item>3. By reaſon of the Creatures that are in it. and that in their hourly devouring.</item>
+               <item>4. By reaſon of it's Tearme or bounds.</item>
+               <item>5. By reaſon of the Multiplicity, or Multitude of Eminent and Imminent dangers.</item>
+               <item>6. By reaſon of the many and Monſtrous Shapes that are in it.</item>
+               <pb n="1" facs="tcp:21827:3"/>
+               <item>7. By reaſon of the Non-abiding, or pre<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt and ſpeedy paſſage.</item>
+               <item>8. By reaſon of the uncertainty of it.</item>
+               <item>9. By the reaſon of the Sapor, Taſt, or Reliſh of it.</item>
+               <item>10. By reaſon of the Voracity, and Inſa<g ref="char:EOLhyphen"/>tiability of it.</item>
+            </list>
+            <div n="1" type="reason">
+               <head>Of the Firſt.</head>
+               <argument>
+                  <p>The Motion and Inſtability of it.</p>
+               </argument>
+               <p>
+                  <seg rend="decorInit">T</seg>He Sea is euer flowing and eb<g ref="char:EOLhyphen"/>bing: now Eleuated; now De<g ref="char:EOLhyphen"/>preſt: Continually ſwelling and falling.</p>
+               <p>So the world: it is neuer ſtill, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rat qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et: now l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tting vp; a<g ref="char:EOLhyphen"/>nother while caſting downe: Nay many times, working theſe con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raries; that is: of E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>altation, and Depreſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>on, vpon one, and the ſame in an inſtant.</p>
+               <p>I haue ſeene the vngodly exalted, and Flouriſh, as a greene <hi>Bay Tree:</hi> yet he paſſed away; loe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was gone; I ſought him, and her could not bee found. <hi>Pſalme.</hi> 37. 35, 36.</p>
+               <p>Man ſhooteth forth, as a Flower, and is cut downe: Hee vaniſheth as a ſhadow and continueth not. <hi>Iob.</hi> 14. 2.</p>
+               <p>Our delights are like <hi>Io<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>'s Gou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d:</hi> Now ſpread,
+<pb n="3" facs="tcp:21827:4"/> now dead. While they are, they reioyce vs; as that <hi>Go<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d</hi> did that good old Prophet: But gone like that (which ſuddenly was, and was not) the pri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation as much torments us. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ona.</hi> 4. 6, 7.</p>
+               <p>M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>danc proſperity is a ſtaffe of a Cane, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Reed: it may ſeeme to be ſolid and firme, but hee that ſhall reſt vpon it, or put any truſt vnto it, ſhall find what it is, when it breakes: when it hurts, w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it ſeemed to helpe: and pierceth through that part it ſupported. <hi>Iſa.</hi> 36 6.</p>
+               <p>Among the waues of this Sea, thus doe wee Riſe, thus fall: vpon this Billow, we Swimme; vnder the next, we <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nke: Now Flouriſh; now periſh, as a game that the world delights in.</p>
+               <closer>Lord have Mercy upon us.</closer>
+            </div>
+            <div n="2" type="reason">
+               <head>The Second Reſemblance,</head>
+               <argument>
+                  <p>Eiection, or caſting out.</p>
+               </argument>
+               <p>THe Sea caſts out her dead to the Shore: ſo the world, thoſe that are dead to the world: that is, thoſe that delight not in her ſinfull delights, and pleaſures: That know her delights, to be lightneſſe, and her pleaſures, a path to anguiſh. Attend to that of Saint <hi>Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi>
+               </p>
+               <p>Wee are evill ſpoken of, we are made as the filth of the World, the off-<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of all things, even unto this time. 1. <hi>Co.</hi> 4 13</p>
+               <p>Thus to the world, and worldings are thoſe that neglect the world: Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roach'd; Reuil'd and Slaun<g ref="char:EOLhyphen"/>der'd: her Language the language of Hell: and with ſuch doe ſuch Hell<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounds purſue them.</p>
+               <pb n="4" facs="tcp:21827:4"/>
+               <p>
+                  <hi>If you were of the world, the world would love you: but becauſe you are not of the world, the world hates you. Ioh.</hi> 15. 19.</p>
+               <lg>
+                  <l>
+                     <hi>How unhappy are men ſo Beloved?</hi>
+                  </l>
+                  <l>
+                     <hi>How happy are men ſo Reproved?</hi>
+                  </l>
+               </lg>
+               <p>Moreouer, ſpirituall men are not onely caſt out of the World, (from her Titles, preferments and Glories) but ſuffer withall, many grieuous and great perſecutions. The Seruant is not better than his Maſter: they haue perſecuted <hi>CHRIST,</hi> and the Chriſtian muſt endure perſecution.</p>
+               <closer>Lord have Mercy upon us.</closer>
+            </div>
+            <div n="3" type="reason">
+               <head>The Third Reſemblance.</head>
+               <argument>
+                  <p>As from the Sea, ſo from the Creatures within it, and that in their hourely Devouring.</p>
+               </argument>
+               <p>IN the Sea among Fiſhes, the greater devour the leſſer: In the World among men, the Richer de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur the poorer.</p>
+               <p>They entertaine not the poore into their houſes, but the houſes of thepoore, entertaine to their owne poſſeſſions.</p>
+               <p>They Cloath not the poore, but vncloath them: they feede not the poore, but vpon them.</p>
+               <p>God hath giuen them, that they might giue; and doe good: but with that they ſhould doe good, they doe euill. Not knowing that in Saint <hi>Luke,</hi> 16. 22.</p>
+               <p>
+                  <hi>The Rich man dyed, and was buried: but the Poore</hi>
+                  <pb n="4" facs="tcp:21827:5"/> man dyed, and was carried, Whither? into Abra<g ref="char:EOLhyphen"/>hams Boſome. By whom? By Angels.</p>
+               <lg>
+                  <l>Oh Happy, and thrice happy Beggers:</l>
+                  <l>Oh wretched, and thrice wretched oppreſſors.</l>
+               </lg>
+               <p>Lord have Mercy upon us.</p>
+               <p>Wherefore doeſt thou looke upon the tranſgreſſor, and hold thy tongue, when the wicked devoureth the man that is more Righteous than he; and makeſt them as the Fiſhes of the Sea? Habba. 1. 14.</p>
+               <p>Yet in this vaſt Sea, the Righteous man ſhall not periſh; but liue, though the wicked devour him</p>
+               <p>Even as Ionas, who though ſwallowed, yet lived in the belly, into which he was greedily ſwallowed.</p>
+               <p>As dying behold wee live, as chaſtned and yet not killed. 2 Cor. 6. 9.</p>
+               <closer>Lord have Mercy upon us.</closer>
+            </div>
+            <div n="4" type="reason">
+               <head>The Fourth Reſemblance,</head>
+               <argument>
+                  <p>And that from the Terme, or Bounds of the Sea, are the Sands, which we know to be Barren and weighty.</p>
+               </argument>
+               <p>SO the Terme or Bounds of this world (the end of our mortall being) is unfruitfull and weighty in the burthen of our ſinnes and offences.</p>
+               <p>What Fruit had yee of thoſe things, of which yee <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e now aſhamed? Rom. 6. 21.</p>
+               <p>What hath man of all the Labour and Toyle that he ſuffereth under the Sunne? Eccl. 1. 3.</p>
+               <pb n="5" facs="tcp:21827:5"/>
+               <p>Man findes nothing in death, but his workes; and thoſe he muſt carry with him. Reu. 14. 13.</p>
+               <p>The whole World lies in wickedneſſe. Ioh. 1. 19.</p>
+               <p>As vnapt to the doing, or bringing forth any good worke, as the Thorne to bring forth Figgs, or the Thiſtle to bring forth Grapes.</p>
+               <p>In the confines of Life (which is death,) the wick<g ref="char:EOLhyphen"/>ed man finds nothing, but the weight of his ſinnes committed, and his hopes and deſires preuented.</p>
+               <p>An Example of this, our Bleſſed Sauiour giues us, in the Glutton, attired in Purple: who in the mid'ſt of the vnutterable Tortures he had to torment him, could not purchaſe a Droppe, one droppe of cold water to eaſe him.</p>
+               <closer>Lord have Mercy upon us.</closer>
+            </div>
+            <div n="5" type="reason">
+               <head>The fift Reſemblance.</head>
+               <argument>
+                  <p>In the multiplicity, or Multitude of Eminent and Imminent dangers.</p>
+               </argument>
+               <p>IN the Sea, (we all know) there be maruellous and manifold dangers by Winds, by Rockes, by Shelues, by Pyrates, and the like.</p>
+               <p>They that ſayle ouer the Sea, tell of the perills thereof; and when we heare of it with our eares, we maruaile thereat. Eccle. 23. 24.</p>
+               <p>And ſo for the world; which how full of ſtrange Perills, and Dangers, the Apoſtle Saint Paul in<g ref="char:EOLhyphen"/>formes us, In Iorneying, I was often in perills of Water, in perills of Robbers, in perills of the Sea, in perills among falſe Brethren. 2 Cor 11.</p>
+               <p>Periculum probat, Tranſeuntium raritas; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t pe<g ref="char:EOLhyphen"/>reuntium multitude, B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn.</p>
+               <pb n="6" facs="tcp:21827:6"/>
+               <p>The Rar<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y of thoſe that paſſe ſafe; and the multi<g ref="char:EOLhyphen"/>tude of thoſe that periſh, proues the perill of this dangerous paſſage: The number of the firſt very ſmall: the number of the laſt very great. Loue the world, and it ſhall ſwallow thee, her louers ſhee knowes better how to devour, then ſecure: for him with whom the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, the betrayes.</p>
+               <p>Where bee the Giants? where bee the Poten<g ref="char:EOLhyphen"/>tates? the Eminent and Famous men of all the precedent Ages? Gone. All gone through this World, through a world of Perils and Dangers.</p>
+               <closer>Lord have Mercy upon us.</closer>
+            </div>
+            <div n="6" type="reason">
+               <head>The Sixth Reſemblance.</head>
+               <argument>
+                  <p>In the Multitude of Monſtrous ſhapes that are in it.</p>
+               </argument>
+               <p>IN the Sea there are many Monſters: many Fiſhes of ſtrange, of Admirable ſhapes and proportions.</p>
+               <p>So in the world, there be men in their nature, con<g ref="char:EOLhyphen"/>dition, and actions ſo ſtrange, ſo prepoſterous, and monſtrous, they are monſters rather than men.</p>
+               <p>There haue bin found in the Sea, Fiſhes, that in all points are proportioned to a Souldier armed on Horſebacke: And like vnto thoſe on the Land, are our Roarers, ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſwearing and ſwaggering Compani<g ref="char:EOLhyphen"/>ons alwaies arm'd to doe Murders and miſchie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+               <p>Others you ſhall find, which haue the face in the place of their feet and their feet in the place of the head. And like thoſe, are our coue<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oorders; our greedy, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ritious gripers; and grinders of the face of the nee<g ref="char:EOLhyphen"/>dy: who haue alwaies this earth in their eye, and Heauen at their heele: ſeeing to kicke at Heauen,
+<pb n="7" facs="tcp:21827:6"/> and the Heauenly counſell of our Holy A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtle, ſaying: Seeke thoſe things that are above, &amp;c. minding onely theſe things below. For his God, and his Heauen, are his Gold and his Coffers; and to theſe hee lookes, and no farther.</p>
+               <p>Lord have Mercy upon us.</p>
+               <p>Others you ſhall find, that haue <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tongues: And like thoſe, are many of our Advocates; of our Fawners and flattering companions, who have one thing in their words, and another in their wills: thoſe Divels Choriſters, that ſing ſweetly, but their Notes are ho<g ref="char:EOLhyphen"/>ney and poyſon.</p>
+               <p>The words of the double tongued man may ap<g ref="char:EOLhyphen"/>peare <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e be plaine, and ſimple, but they are not ſo: They pierce through, even unto the bowels. Pr. 18. 8.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>Others you ſhall finde, that have ſwords in their mouthes, or the likeneſſe and reſemblance of ſwords: and ſo many men that have tongues in their mouths like ſwords, with which they are ſtill wounding the ſame and good name of their Neighbours.</p>
+               <p>Behold they brag in their talke, and ſwords are in their lips. Pſal 59. 7.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>Another kind of Fiſh you ſhall finde, that hath ma<g ref="char:EOLhyphen"/>ny <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eads: And ſuch are ſuch men as are ſubiect to ma<g ref="char:EOLhyphen"/>ny <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es: for ſo many vices, ſo many heads; nay, ſo many Lords and Commanders. Covetouſneſſe is the Lord of the covetous: Luxury the Lord of the luxuri<g ref="char:EOLhyphen"/>ous: Pride the Lord of the proud: and E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vie the Lord <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vious.</p>
+               <p>The evill and ungodly man ſerves ſo many Lords, as vices.</p>
+               <closer>Lord have mercy upon us.</closer>
+            </div>
+            <div n="7" type="reason">
+               <pb n="8" facs="tcp:21827:7"/>
+               <head>The ſeventh Reſemblance.</head>
+               <argument>
+                  <p>In the non-abiding, or preſent and ſpeedy paſſage.</p>
+               </argument>
+               <p>THe Sea is no place of abiding, no place to inha<g ref="char:EOLhyphen"/>bite, ordwell in, but the path of a ſpeedy paſ<g ref="char:EOLhyphen"/>ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, of a ſwift and violent travell: So this World; we have here no place of abiding: the Apoſtle to the <hi>Hebrews</hi> 13. 14 ſaying, <hi>We have here no continuing City, but wee ſeeke for one to come.</hi> We doe, or we ſhould doe; for that place to come is our Countrey.</p>
+               <p>We are here but lodgers and ſtrangers, and like to ſuch, we ſhould not forget our Countrey, and delight to inhabite ſtrange places, but delight in the path to that, and kéeps it, till we come to our City.</p>
+               <p>What this world is, or the time of this preſent life, Saint <hi>Auguſtine</hi> tells us: <hi>Nihil niſi curſus ad mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tem, Nothing but a race to Death:</hi> In which no man can make any ſtand, neither is it permitted to any one to goe either ſwifter, or <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>wer than another: The Race may be ſhorter, or longer, but the pace is to all men equall.</p>
+               <closer>Lord have mercy upon us.</closer>
+            </div>
+            <div n="8" type="reason">
+               <head>The Eighth Reſemblance.</head>
+               <argument>
+                  <p>In uncertainty.</p>
+               </argument>
+               <p>IT is not in the power of any man that enters him<g ref="char:EOLhyphen"/>ſelfe on the Sea, to kéepe in the courſe hee propoſes, and arrive at the place he wiſhes: but many times, by croſſe and contrary winds hee is carryed to that place to which hée would not bée carryed: neither in that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eane, or manner can he came to the Port that hée would doe. So in this World: it is not in the will of man, but in the will and pleaſure of the ever bleſſed
+<pb n="9" facs="tcp:21827:7"/> Spirit, directing to arrive at the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort of <hi>Salvation,</hi> or ſaile to the Haven, <hi>Heaven. It is not in him that willeth, neither in him that runneth: but in GOD that ſheweth mercy. Rom.</hi> 9. 16.</p>
+               <p>And therefore we ought to pray continually, that God would be pleas'd to guide us in the way that may lead us to him. It is the counſell of holy <hi>Tobit. 4. 9. Bleſſe the Lord alwayes, and deſire him to direct thy wayes.</hi>
+               </p>
+               <closer>Lord have mercy upon us.</closer>
+            </div>
+            <div n="9" type="reason">
+               <head>The Ninth Reſemblance.</head>
+               <argument>
+                  <p>In the Sapor, Taſte, or relliſh of it.</p>
+               </argument>
+               <p>
+                  <hi>VAlde amarum eſt Mare, The Sea is exceeding bit<g ref="char:EOLhyphen"/>ter,</hi> and yet to the Fiſh that are in it, that there have their increaſe and nouriſhment, that bitterneſſe is not bitter, but exceeding ſwéet, and delightfull: So the World in the direct and very plaine truth of it, is exceeding bitter, and diſtaſtfull: yet to the world<g ref="char:EOLhyphen"/>ling the taſte is delightfull, and pleaſant: Nay, in ſuch a plenitude, ſuch a meaſure, and height delightfull, that he can have no ſence, no touch, or conceit of the contrary: That bitterneſſe is onely ſwéet, and in the things of this world flow all the delights that may be. Miſtaſt, or miſtake in the taſte, proceeds, and ariſes from the corruption and default of the palat.</p>
+               <p>The men of this World have corrupt and miſta<g ref="char:EOLhyphen"/>king palats, like th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe that are ſicke of a Fever, to whom ſuch things as in themſelves are ſweete, ſéeme bitter, and things that are bitter, ſweet.</p>
+               <p>To the ſound and well diſpoſed pallat, that bread is ſweete, that to the unſound, and indiſpoſed palate is unſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>voury. <hi>Woe be to thoſe that call evill, good, and</hi> 
+                  <note place="margin">Aug.</note>
+                  <pb n="10" facs="tcp:21827:8"/> 
+                  <hi>that which is good evill: putting bitter for ſweete, and ſweete for bitter.</hi> Iſai. 5. 20.</p>
+               <closer>Lord have mercy upon us.</closer>
+            </div>
+            <div n="10" type="reason">
+               <head>The tenth, and laſt reſemblance.</head>
+               <argument>
+                  <p>In the voracity and inſatiability of it.</p>
+               </argument>
+               <p>THe Sea ſwallowes all the floods yet exceeds not her bounds nor is ſatisfied with aboundance of water: All the floods goe into the Sea, yet the Sea is not full: So the world entertaines, receives, and con<g ref="char:EOLhyphen"/>ſumes all the good things of the earth, yet never ſaies, it is enough.</p>
+               <p>
+                  <hi>All that is in the World, is the luſt of the fleſh; the luſt of the eye, or the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ride of Life. Joh.</hi> 2. 16. But the luſt of the fleſh is not ſatisfied with delight: the luſt of the eye with riches: nor the pride of life with honours.</p>
+               <lg>
+                  <l>Ergo mundus non ſatiatur.</l>
+                  <l>The world is never ſatisfied.</l>
+                  <l>The worldling never contented.</l>
+               </lg>
+               <p>Whatſoever the worldling hath, he hath as if he had it not; ſtill gaping, ſtill ſwallowing; ſtill wiſhing, firſt deſiring: He levels firſt at ſuch a thing, and obtaines it, at a thing beyond that at a thing beyond that, and obtaines it: yet the poſſeſſion of every new thing, that he wiſheth for, is but the matter of another wiſh; building wiſh upon wiſh and degree upon degree, as if to climbe to the hight of his wiſh (which ſuch a one ne<g ref="char:EOLhyphen"/>ver can reach to) were to climbe to heaven: but ſo to goe upward, we may feare, is but ſo to go downeward.</p>
+               <closer>Lord have mercy upon us.</closer>
+            </div>
+            <div type="conclusion">
+               <pb n="11" facs="tcp:21827:8"/>
+               <head>The World, A Peſt-houſe.</head>
+               <p>AS you have looked upon the world compared to the ſea, in theſe proper &amp; apt reſemblances; and ſeene it full of trouble, vexation, and ſin<g ref="char:EOLhyphen"/>full ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes: I would have you now looke upon it as a <hi>Peſt-houſe,</hi> and in theſe fifteene Roomes (into which wée divide this <hi>Peſt-ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe)</hi> ſee every miſ-deede a diſeaſe, and every groſſe ſinne a ſickneſſe.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> In the firſt Roome, ſee the diſeaſe of Pride, Ambition, Vaine-glory, and an inextinguiſhable thirſt of great, and unmerited <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tles.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> In the ſecond Room, ſee the diſeaſe of Luxury, a Diſeaſe that perturbes the minde, d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls the underſtanding; ener<g ref="char:EOLhyphen"/>vates and infeeb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es the Memory; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngs in error, oblivion, and ignorance, and make<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a man like a beaſt: Holy Job cals it A Fire.</p>
+               <p>Another, the Divels Forge: in which the poore ſinner made hot, is wrought to what faſhion the Forger of all miſchiefe would have him.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> In this third Roome ſee the diſeaſe of Envv: an evill that (as Nazianzen ſaies) is the moſt juſt, and unjuſt of a<g ref="char:EOLhyphen"/>ny: Unjuſt as injurious t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the good: But as it firſt, and moſt vehemently, excruciates the wicked poſſeſſor; an e<g ref="char:EOLhyphen"/>quall, and moſt juſt tormentor.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> In this fourth Roome, ſee the diſeaſe of a dull, and ſot<g ref="char:EOLhyphen"/>tiſh inſenſibilitie of that circle of danger, within which we are daily incompaſt: A diſeaſe, in which, we think we have eyes as quicke and cleare, as the eye of the Lyu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or Lyn<g ref="char:EOLhyphen"/>ceus; when indeede they are dull and dimme as the eye of thoſe birds, that not able to ſee the Sunne, flie onely in the darke; or at moſt by t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e glimmering twy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>light.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> In this fift Roome, ſee the common, but incurable diſ<g ref="char:EOLhyphen"/>eaſe
+<pb n="12" facs="tcp:21827:9"/> of oppreſſion: in which, the diſeaſed laughs at the poore: to which, groanes, ſighes, and laments are muſick; and the teares, nay the blood of the Widow, the Orphan, and ſuch other, as lye under the weighty preſſure, a drinke that (ſpiced with the pro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t, wrench'd, wrung, and extorted from them) goes downe with a great deale of pleaſure.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> In the next Roome, ſee a company ſicke of ſo extream<g ref="char:EOLhyphen"/>ly ſtrange a diſeaſe, that (like mad-men) they take the way for their journeys end: and their I<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e for their owne inheritance.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> IN this ſeaventh Roome, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Diſeaſe of that wealthy poverty, Covetouſneſſe: A Diſeaſe in which a man has the ſtocke of the wealthy, but the ſoule of the poore and needy.</p>
+               <lg>
+                  <l>O Dives haredibus, tibi verò pauper.</l>
+                  <l>Hee is onely rich to his heires, to himſelfe as poore as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rus.</l>
+               </lg>
+               <p>A Diſeaſe that makes him ſo ſilly, as to thinke hee can ſerve two Maſters: God and Mammon: Though that God and Man, Chriſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſus directly tels him, he cannot, Hee in whom this diſeaſe is rooted, has the roote of all manner of evill.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> In this eighth Roome, ſee a cluſter or heape of diſeaſes together: Gameing, ſwearing, ſwaggering, ſtabbing; the diſeaſe of mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>akes in pleading; or taking amiſſe for pleading. With theſe ſee that diſeaſe in which the diſea<g ref="char:EOLhyphen"/>ſed will not ſpeake a word or ſyllable, not ſteeped in Oyle or honey without kiſſing his fingers ends: nor for his fingers ends without new faſhiond legges and faces: that Diſeaſe, in which the diſeaſed will licke o're a vice to the ſpecious appearence of vertue; and ſtrike where he ſeems to ſtroake, with many other Soares and Diſeaſes.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> In this ninth Roome, ſee that Diſeaſe in which a man thinks, that whatſoever he will doe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e can; and whatſoe<g ref="char:EOLhyphen"/>ver he fancies, is as eaſie to performe, as purpoſe. Like
+<pb n="13" facs="tcp:21827:9"/> thoſe fooles, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. 4. 13, 14, 15. To day, or to morrow wet will goe to ſuch a City, we will continue there a yeere: we will buy, and we will ſell, and we will gaine: Here is nothing but we will, and we will; though no man to day can tell, what ſhall be to morrow: for what is our life but a vapour?</p>
+               <p>Their Leſſon, and ours is this: If the Lord will, wee will, without which all our will can be nothing.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> In this Tenth Roome ſee a Diſeaſe, than which no evill is ſwi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter, nothing more eaſily flies out; and of any thing, no thing dilates and ſpreads it ſelfe farther. The heart of the Glut<g ref="char:EOLhyphen"/>ton is in his Ki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chin: of the Luſtfull man, in a Brothell: of the Covetous man in his Coffer: But the heart of Detraction, pur<g ref="char:EOLhyphen"/>ſuing the good name of his neighbour: which if he finde but a little defect, or failing, hee greedily takes in his teeth, blaſts with his venemous breath, wounds with his Serpentine tongue, and with it, (for ſo it muſt follow) the heart of the man ſo detracted.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> In this Eleventh Roome ſee a Diſeaſe, that for the cure of it, the reaſonable Creature is ſent unto the unreaſonable Crea<g ref="char:EOLhyphen"/>ture: <hi>Vade ad formicam, &amp;c.</hi> Prov. 6. Goe to the Ant ſaith Salomon, conſider her wayes, and weighing them, learne to be wiſe. Shee that hath no guide, ſhall guide thee; ſhee that hath no teacher, ſhall teach thee; ſhee that hath no Lord, of a ſervant to this ſinne, (this drowſie, ſluggiſh, ſlaviſh, and of all, a diſeaſe the moſt deſpicable, ſhall make thee a Lord and Com<g ref="char:EOLhyphen"/>mander. Shee prepares her meate in Summer, and gathereth her food in Harveſt. Shee labours, and feeds, while the Graſ<g ref="char:EOLhyphen"/>hopper playes, and faſts. The ſlothfull man ſleeps, and does nothing; or evill, which is worſe than nothing: <hi>While his field and his vineyard is cover'd with Thornes and Nettles: This is the field of the foole, which</hi> Salomons <hi>wiſe man ſeeing, makes a ſtand, looks on it, conſiders, and from it receives in<g ref="char:EOLhyphen"/>ſtruction.</hi> Prov. 24. 30, 31, 32.</p>
+               <p>Poverty comes upon the ſlothfull man unawares, and Ne<g ref="char:EOLhyphen"/>ceſſity, like an armed man: for in this diſeaſe a man is thus dull, thus ſtupid. Before the enjoyment of any thing ſweete, we muſt ſweat: for the gods ſell all for Labour.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> In this Twelfth Roome ſee a Diſeaſe, to which a meale, a delicate diſh, or a Dinner, is a bit: like that morſell or mouth<g ref="char:EOLhyphen"/>full
+<pb n="14" facs="tcp:21827:10"/> f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll that we uſe to caſt to a Dogge which as ſoone as he hath, he ſwallows, and preſently gapes for another. So this man: he gapes, ſwallows, and gapes. This man, whoſe God is his Belly, whoſe Temple is his Ki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chin whoſe Altar is his Table, whoſe Miniſters are his Cookes whoſe Offering is a Banquet, and the ſmoake of that Banquet his Incenſe.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> In the 13. Roome, after ſuch a gluttonous feeding, ſee the Diſeaſe of Drinking: In which you ſee a man without eyes, without <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ete, without heart, without hand, without hearing: or if he have the Organ he hath them not as he ought, in th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r vigor, and uſes. And therefore, to ſee a man thus, that is, with them, and yet without them, is not to ſee a man, but in the place of a man, a Mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter.</p>
+               <p>A moderate Raine does good, makes the earth faire, freſh, and fruitfull: but immoderate ſhewers deprive her of all theſe bleſſings. And thus that earth, Man, with moderate and im<g ref="char:EOLhyphen"/>moderate drinking, freſh, faire, and fruitfull: or neither freſh, faire, nor fruitfull in any of thoſe things that become him. <hi>Take heed, leſt at any time your hearts be over-burthened with ſurfeiting and drunkenneſſe.</hi> Luke 21. 34.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> In this 14. Roome ſee the ſtrange diſeaſe of ſtrange and new fangled faſhions: let them be what they will, adorne, or deforme, the faſhion is the faſhion, and a man muſt be in the faſhion.</p>
+               <p>The preſent faſhion is, a Doublet two inches too ſhort, and the Breech ten inches too long, ſcarſe halfe a legge to bee ſeene: the waſt ſo embraced with points, and the knee with the young, or ſpawne, otherwiſe call'd ſprigs, or jinglers, that old Buckle and Thong, the Girdler, is a thing that is ſeldome thought on and <hi>Timothy Tagge</hi> the principall man in the Pa<g ref="char:EOLhyphen"/>riſh. I could from the Hat, with the band, as light as a Fea<g ref="char:EOLhyphen"/>ther, obſerve to the ſole of the ſhooe, and in divers places be<g ref="char:EOLhyphen"/>tweene them, ſhew you other ſpots of the faſhion, but ſo I might ſtay too long, and the faſhion goe out before me: For as if every new faſhion made m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gallant a very new man, hee muſt weare out ten faſhions, before he can weare out one ſuite; or he is not a man in faſhion.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> In this 15. Roome ſee that grievous Diſeaſe of Neglecting, and leaving what our beſt Ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſitian preſcribes us: and affecting
+<pb n="15" facs="tcp:21827:10"/> and embracing what this Mountebanke World ſhall prepare for us.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>This infection, theſe Diſeaſes, and a multitude hard to bee thought on, are ſtill to be found in this Paſt houſe: St Ber<g ref="char:EOLhyphen"/>nard ſaying, Peccatum morbus est anim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Sinne is a diſeaſe of the foule: And that the principall ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe of all the Diſeaſes of the body, are thoſe of the Soule, which is Sinne, take theſe holy places to witneſſe.</p>
+               <p n="1">1. By one man ſinne entred into the world, and Death by ſin; and ſo Death went over all men, foraſmuch as all men have ſinned. Rom. 5. 12.</p>
+               <p n="2">2. Behold all Soules are mine, both the ſoule of the fa<g ref="char:EOLhyphen"/>ther, and alſo the ſoule of the ſon: The ſoule that ſinneth, ſhall dye. Ezek. 18. 14.</p>
+               <p n="3">3. Thy ſorrow is incurable for the multitude of thine iniquities: becauſe thy ſins were increaſed, I have done theſe things unto thee. Ierem 30. 15.</p>
+               <p n="4">4. Si<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no more, le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t a worſe thing happen unto thée. John 5. 14.</p>
+               <p n="5">5. Thus ſaith the Lord of Haſts: This City muſt bee viſited, O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>preſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on is in the midſt of it: As the fountaine caſte<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut her water ſo ſhe caſteth out her malice: truel<g ref="char:EOLhyphen"/>ty and ſpoile is continually found within her. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 6. 6, 7.</p>
+               <p n="6">6. For ſin hath Fami<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> mea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erly ſtalk'd among us: Bia<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>s Mildews, Catterp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lers, and the gréedily de<g ref="char:EOLhyphen"/>vouring Pe<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 1 Kings 8. 37.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>Theſe and many other places doe moſt perſpicuouſly de<g ref="char:EOLhyphen"/>mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtrate unto us the cauſe of theſe heavy Uiſitations, Sinne; the diſeaſe y<hi rend="sup">•</hi> Adam dyed of, and ſo all the ſonnes of Adam.</p>
+               <p>It cannot he time ill ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent, here to make a ſtand, and a little to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cke to that heavy commination or threat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> at this <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>re 5. And the better to fixe it upon our Hearts, to obſerve it in theſe foure circumſtances:</p>
+               <p>Who, how, what, and for what.</p>
+               <p>Who threatens? The Lord God of Hoſts<g ref="char:punc">▪</g> How?
+<pb n="16" facs="tcp:21827:11"/> As a man compell'd, conſtrain'd, and ueceſſitated by the multitude of Sinnes &amp; Tranſgreſſions: intimated in this word <hi>Muſt, This City muſt,</hi> What? <hi>Be puniſhed, afflicted,</hi> For what? <hi>Sinne: Oppreſſion is in the midſt of it.</hi>
+               </p>
+               <p>Oppreſſion which was in the midſt of that City, is in y<hi rend="sup">•</hi> midſt of this, even in the Centre of it; and ſo in the Cen<g ref="char:EOLhyphen"/>tre of this Kingdome: diffuſing, ſhedding, and ſpreading it ſelfe into every part of her faire and large circumfe<g ref="char:EOLhyphen"/>rence. <hi>As the Fountaine caſteth out her water, ſo ſhee ca<g ref="char:EOLhyphen"/>ſteth out her malice, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Lord have mercy upon us.</hi>
+               </p>
+               <p>For theſe, and their ſpotted companions, did the Peſti<g ref="char:EOLhyphen"/>lence, that Tyrant, in the yeare of that never to be forgot<g ref="char:EOLhyphen"/>ten number, 1625. Arreſt, and Impriſon (in that Goale in which they muſt rot that enter) ſo many, many thou<g ref="char:EOLhyphen"/>ſands of people: ſparing neither the ſilver head of the old man, nor the golden hopes of the young man; the ſtrength of the Male, nor the beauty of the Female.</p>
+               <p>
+                  <hi>Lord have mercy upon us.</hi>
+               </p>
+               <p>For theſe, did this Tyrant, that neither feares the rich, nor pitties the poore, take the rich from his wealth, and the poore from his want, and make them in the grave companions.</p>
+               <p>
+                  <hi>Lord have mercy upon us.</hi>
+               </p>
+               <p>For theſe did this Tyrant ſnatch the wife from the husband, and the husband from the wife: the parent from the childe, and the childe from the parent: the firſt be way<g ref="char:EOLhyphen"/>ling the loſſe of halfe themſelves, and their beautifull O<g ref="char:EOLhyphen"/>live-branches: and theſe branches (their children) the loſſe of that roote, from which they received their being.</p>
+               <p>
+                  <hi>Lord have mercy upon us.</hi>
+               </p>
+               <p>For theſe, did this Tyrant make the Citizen flye the Ci<g ref="char:EOLhyphen"/>ty to méete what hée fled in the mercileſſe entertaine of the Countrie, that undutifull hand-maid; that inſteed of
+<pb n="17" facs="tcp:21827:11"/> taking to heart, the heart-ſicke eſtate of her Lady, to the numberleſſe number of her teares, her groanes, her ſighes, and unutterable meaſure of anguiſh, added the matter of them all in the hardneſſe of her heart to her miſerable ſonnes and daughters.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>For thſe, did that Tyrant caſt ſo great an Eclipſe o're the glory of this City, that nothing was ſeene but blacke; no more of her brightnes, no more of her ſplendor &amp; beauty, than of the beauty of the heavens, when the darke robe of night over-ſpreads it.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>To particularize the calamities of that yeare were needeleſſe, ſo few yeares have paſt ſince we felt it, that in husband, wife, child, parents, kinſman, friend, trading, or in o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſad thing or another, many thouſads yet living féele it.</p>
+               <p>And to make us the more to feele it, God again has be<g ref="char:EOLhyphen"/>gun to ſtrike us: But like an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>noulgent father, he yet hath bin pleaſed to ſtrike us, telling his ſtroaks by leaſure; and in that telling us, he had rather affright, than hurt us. <hi>As I live (ſaith the Lord) I deſire not the death of the wicked, but that the wicked may turne from his waies and live, Ezek</hi> 14. 11. For his way is the way to death; but the way of the Lord to life, and both eternall.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>Heere God Almighty has ſtrooke one, there another; there another, and a great way off, another: this wéeke ſo many; another ſo many: one Bill riſing, another fal<g ref="char:EOLhyphen"/>ling: the increaſe bidding flye from ſinne: the decreaſe not to flie from the City: a command to depart, and aſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et invitation to tarry. <hi>Let every one that calleth on the name of Chriſt, depart from iniquity. 2. Tim.</hi> 2. 19.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>The beſt flight we can make is to flye from that, as faſt as we can, the farther, the neerer to God. Every puniſh<g ref="char:EOLhyphen"/>ment
+<pb n="18" facs="tcp:21827:12"/> is an Arrow from the qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver of God Almighties an<g ref="char:EOLhyphen"/>ger: and thoſe aimed onely at ſin; from which, if we care<g ref="char:EOLhyphen"/>fully flye, we remoove the marke, and with it evade the danger.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>My wiſh to the flight of thoſe that flye, is, that flying, they may thus flye: and withall (Gods will ever placed in the fore front of all our wiſhes) that they may not (as ſometimes it happens at a ſhooting) intending to runne from the arrow they ſee not, runne under it, and ſinke where they ſeeke their ſafety: Too many ſo have runne: too many beene ſo over-taken.</p>
+               <p>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t our prayers be one for another, that ſtaying or flying, living, or dying, wee may all live and dye in the feare, love, and favour of Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Almighty Creator.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>It is written of two of the Schollers of <hi>I ſocrates (Eupho<g ref="char:EOLhyphen"/>rus and Theopompus)</hi> that for their difference in the ſwift<g ref="char:EOLhyphen"/>neſſe, and ſlackneſſe in Learning: <hi>The one had neede of a Bridle, the other neede p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſpu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re.</hi>
+               </p>
+               <p>But wee had neede of them both: every one both of <hi>Spurre and Bridle:</hi> A Bridle to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e us from running ſo faſt in thoſe courſes for which God Almighty pla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ues us: and a Sp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rre to pricke us forward to thoſe things that may m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve him to ſpare us.</p>
+               <p>Lord have mercy upon us,</p>
+               <p>And enlighten our underſtanding, make us ſee what we ought to ſee and know what we ought to know: Which that wee may aſſuredly doe; teach us O Lord to know thée; and to know, that to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e able to ſpeake (as it is ſaid of Solomon) from the Ce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er in Lebanon, to the Hyſop that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o it of the Va<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o know all the Creatures, and not to know the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Creator, is, in knowing of all things, to know noth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, and ſeeming ſo wiſe, to bee fooliſh.</p>
+               <p>Lord have Mercy upon us.</p>
+               <pb n="19" facs="tcp:21827:12"/>
+               <p>St. Auſten tels us: That he that knowes thee, though theſe things he doe not know, is a happy and a bleſſed man: Hee that knowes thee, and theſe for theſe, is never a whit the more bleſſed: but hee that knowes thee, for thee; for thy ſelfe the Fountaine of all our happineſſe, is happy and bleſſed for ever.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>Teach us O Lord to know thee; to know thee angry; and give us grace to endeavour to pleaſe thee: Following the counſell of thy holy ſervant Ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea, in turning to thee O Lord, that ſo having ſmitten us, thou maiſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eale us; having wounded us, thou maiſt make us whole; and in thy good time, tranſlate us from this Sea full of ſtormes and dangers: this Peſt-houſe full of Sores and Diſeaſes, to that Haven, and that Habitation, where there is no ſtorme or tempeſt, and where Death or Diſeaſe never entred.</p>
+               <closer>Lord have mercy upon us.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
